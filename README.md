@@ -9,8 +9,18 @@ An Ecommerce Website made with React.js Framework. Showcasing the UI Building fo
 - Responsive
 
 ## Screenshots
-/Users/jisusingh/Desktop/Screenshot\ 2024-05-18\ at\ 10.37.17 PM.png 
-/Users/jisusingh/Desktop/Screenshot\ 2024-05-18\ at\ 10.38.10 PM.png 
+# Project Title
+
+Brief description of your project.
+
+## Features
+
+- Feature 1
+- Feature 2
+
+## Screenshot
+
+![Home Page](/Users/jisusingh/Desktop/Screenshot\ 2024-05-18\ at\ 10.37.17 PM.png)
 
 ## Run Locally
 
