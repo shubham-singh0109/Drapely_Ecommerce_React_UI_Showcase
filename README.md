@@ -26,6 +26,12 @@ Install dependencies
 ```bash
   npm install
 ```
+If facing an issue with node version, change node version
+
+```bash
+  nvm install <version>
+  nvm use <version>
+```
 
 Start the server
 
