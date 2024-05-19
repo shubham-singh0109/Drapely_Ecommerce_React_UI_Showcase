@@ -42,6 +42,7 @@ Start the server
 ## Contributing
 
 Contributions are always welcome!
+Fork the repository and build your idea.
 
 
 
