@@ -20,7 +20,7 @@ Brief description of your project.
 
 ## Screenshot
 
-![Home Page](./assets/main.png.jpg)
+![Home Page](./assets/Home.png)
 
 ## Run Locally
 
