@@ -8,39 +8,37 @@ An Ecommerce Website made with React.js Framework. Showcasing the UI Building fo
 - Ready to integrate with Backend
 - Responsive
 
-## Screenshots
-# Project Title
-
-Brief description of your project.
-
-## Features
-
-- Feature 1
-- Feature 2
 
 ## Screenshot
 
-![Home Page](./assets/Home.png)
+![Home Page](/Users/jisusingh/Downloads/Drapely_Ecommerce_React_UI_Showcase/public/assets/Home.png)
+![App Screenshot](https://i.ibb.co/fQ293tm/Home.png)
 
 ## Run Locally
 
--Clone the project
-bash
+Clone the project
+
+```bash
   git clone https://github.com/shubham-singh0109/Drapely_Ecommerce_React_UI_Showcase.git
+```
 
--Go to the project directory
-bash
-  cd DRAPELY_ecommerece
+Go to the project directory
 
+```bash
+  cd Drapely_Ecommerce_React_UI_Showcase
+```
 
--Install dependencies
-bash
+Install dependencies
+
+```bash
   npm install
-
+```
 
 Start the server
-bash
+
+```bash
   npm start
+```
 
 
 ## Contributing
