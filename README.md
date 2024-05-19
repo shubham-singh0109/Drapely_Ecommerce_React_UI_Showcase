@@ -1,6 +1,6 @@
 # DRAPELY is an E-Commerce shopping website for men and women.
 
-A Ecommerce Website made with React.js Framework. Showcasing the UI Building for different components using React and Redux. 
+An Ecommerce Website made with React.js Framework. Showcasing the UI Building for different components using React and Redux. 
 
 
 ## Features
