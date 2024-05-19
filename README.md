@@ -5,7 +5,7 @@ An Ecommerce Website made with React.js Framework. Showcasing the UI Building fo
 ## Features
 
 - Ready to integrate with Backend
-- Responsive
+- Responsive in nature
 
 ## Run Locally
 
