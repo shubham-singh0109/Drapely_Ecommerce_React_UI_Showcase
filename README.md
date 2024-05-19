@@ -20,13 +20,13 @@ Brief description of your project.
 
 ## Screenshot
 
-![Home Page](/Users/jisusingh/Desktop/Screenshot\ 2024-05-18\ at\ 10.37.17 PM.png)
+![Home Page](./assets/main.png.jpg)
 
 ## Run Locally
 
 -Clone the project
 bash
-  git clone <HTTP Link>
+  git clone https://github.com/shubham-singh0109/Drapely_Ecommerce_React_UI_Showcase.git
 
 -Go to the project directory
 bash
