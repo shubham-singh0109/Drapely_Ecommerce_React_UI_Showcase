@@ -21,10 +21,15 @@ Go to the project directory
   cd Drapely_Ecommerce_React_UI_Showcase
 ```
 
-Install dependencies
+Install dependencies and libraries
 
 ```bash
   npm install
+  npm install @mui/material @emotion/react @emotion/styled @mui/joy
+  npm install @mui/material @mui/styled-engine-sc styled-components
+  npm install @mui/icons-material
+  npm install dayjs
+  npm install @mui/x-date-pickers
 ```
 If facing an issue with node version, change node version
 
