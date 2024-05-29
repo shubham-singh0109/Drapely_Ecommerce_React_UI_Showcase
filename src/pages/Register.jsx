@@ -1,6 +1,12 @@
 import React from 'react'
 import { Footer, Navbar } from "../components";
 import { Link } from 'react-router-dom';
+
+import { DemoContainer } from '@mui/x-date-pickers/internals/demo';
+import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
+import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
+import { DatePicker } from '@mui/x-date-pickers/DatePicker';
+
 const Register = () => {
     return (
         <>
@@ -20,6 +26,14 @@ const Register = () => {
                                     placeholder="Enter Your Name"
                                 />
                             </div>
+                            <div>
+                                <label htmlFor='DOB'>Date of Birth</label>
+                                <LocalizationProvider dateAdapter={AdapterDayjs}>
+                                <DemoContainer components={['DatePicker']}>
+                                <DatePicker label="mm/dd/yyyy" />
+                                </DemoContainer>
+                                </LocalizationProvider>
+                           </div>
                             <div class="form my-3">
                                 <label for="Email">Email address</label>
                                 <input
@@ -42,7 +56,7 @@ const Register = () => {
                                 <p>Already has an account? <Link to="/login" className="text-decoration-underline text-info">Login</Link> </p>
                             </div>
                             <div className="text-center">
-                                <button class="my-2 mx-auto btn btn-dark" type="submit" disabled>
+                                <button class="my-2 mx-auto btn btn-dark" type="submit">
                                     Register
                                 </button>
                             </div>
@@ -55,4 +69,4 @@ const Register = () => {
     )
 }
 
-export default Register
+export default Register;
