@@ -19,6 +19,7 @@ const Login = () => {
                   class="form-control"
                   id="floatingInput"
                   placeholder="name@example.com"
+                  required
                 />
               </div>
               <div class="my-3">
@@ -28,13 +29,14 @@ const Login = () => {
                   class="form-control"
                   id="floatingPassword"
                   placeholder="Password"
+                  required
                 />
               </div>
               <div className="my-3">
                 <p>Create Account | <Link to="/register" className="text-decoration-underline text-info">Register</Link> </p>
               </div>
               <div className="text-center">
-                <button class="my-2 mx-auto btn btn-dark" type="submit" disabled>
+                <button class="my-2 mx-auto btn btn-dark" type="submit">
                   Login
                 </button>
               </div>
