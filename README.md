@@ -36,7 +36,7 @@ If facing an issue with node version, change node version
   nvm use <version>
 ```
 
-Start the server
+Start the application
 
 ```bash
   npm start
