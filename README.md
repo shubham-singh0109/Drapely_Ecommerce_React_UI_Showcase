@@ -7,12 +7,6 @@ An Ecommerce Website made with React.js Framework. Showcasing the UI Building fo
 - Ready to integrate with Backend
 - Responsive in nature
 
-## Screenshots
-
-Here is an example screenshots of the project:
-
-![Home Page](Drapely_Ecommerce_React_UI_Showcase/Home.png)
-
 ## Run Locally
 
 Clone the project
