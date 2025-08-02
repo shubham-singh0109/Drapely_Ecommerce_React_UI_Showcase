@@ -13,8 +13,8 @@ const AboutPage = () => {
         where discerning taste meets effortless elegance. Explore exquisite collections from renowned menswear 
         and womenswear brands, designed to elevate your wardrobe with timeless pieces. Discover dazzling jewelry 
         that complements any outfit, adding a touch of brilliance to every occasion. We bring the world's finest fashion together, 
-        offering an unforgettable shopping experience. Looking for career opportunity at DRAPELY, contact: 
-        <Link>itsshubham.singh01@gmail.com</Link>
+        offering an unforgettable shopping experience. Looking for career opportunity at DRAPELY.
+        {/* contact: <Link>itsshubham.singh01@gmail.com</Link> */}
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
